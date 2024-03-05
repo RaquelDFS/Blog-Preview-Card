@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/RaquelDFS/Blog-Preview-Card/main/assets/images
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://raqueldfs.github.io/Blog-Preview-Card/
 
 ## My process
 
